@@ -33,7 +33,7 @@ a:link, a:visited {
     border: 5px solid dodgerblue;
     border-radius: 8px;
     transition-property: background-color;
-    transition-duration: 2s;
+    transition-duration: 0.8s;
   }
   
   a:hover, a:active {

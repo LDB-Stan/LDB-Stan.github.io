@@ -120,7 +120,7 @@ main p a:hover, a:active {
     display: grid; 
     grid-template-columns: 2fr 1fr 2fr; 
     grid-gap: 1px; 
-    width: auto; 
+    width: 90%; 
 } 
 
 .grid-child-element-home {

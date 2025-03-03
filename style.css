@@ -344,7 +344,7 @@ nav a:hover, a:active {
 
 /*IE6 fix*/
 * html body{
-    padding: 150px 0 50px 230px; /* Set the first value to the height of the header, the third value to the height of the footer, and last value to the width of the nav */
+    padding: 150px 0 50px 0; /* Set the first value to the height of the header, the third value to the height of the footer, and last value to the width of the nav */
 }
 
 * html main{ 

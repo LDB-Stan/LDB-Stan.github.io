@@ -3370,3 +3370,15 @@ a {
 	/*font-family: Georgia, 'Times New Roman', Times, serif;*/
 	text-shadow: #8a99a0 1px 3px 5px;
   }
+
+#about-me p {
+	line-height: 1.5em;
+	margin-top: 1.0em;
+	margin-bottom: 1.0em;
+}
+
+
+#about-me li {
+	margin-top: 0;
+	margin-bottom: 0.2em;
+}

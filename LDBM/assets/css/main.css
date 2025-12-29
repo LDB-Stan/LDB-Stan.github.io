@@ -3382,3 +3382,23 @@ a {
 	margin-top: 0;
 	margin-bottom: 0.2em;
 }
+
+/*
+.rollerboogie {
+    display: block;
+    width: 750px;
+    margin: 0 auto;
+    background-color: #010101;
+    border-radius: 10px;
+    border: 3px solid #34be21;
+    padding: 10px;
+}
+*/
+
+.rbvideo {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+    padding-top: 10px;
+	border: #34be21 solid 2px;
+}

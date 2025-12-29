@@ -3398,7 +3398,8 @@ a {
 .rbvideo {
     display: block;
     margin: 0 auto;
-    width: 700px;
+    width: 100%;
+	height: auto;
     padding-top: 10px;
-	border: #34be21 solid 2px;
+	border: #34be21 solid 3px;
 }
